@@ -120,7 +120,6 @@ This reduces manual effort and ensures continuous monitoring.
 - Pandas
 - NumPy
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
